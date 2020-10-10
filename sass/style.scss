@@ -1,2 +1,12 @@
 $textColor: rgb(58, 42, 42)
 
+<<<<<<< Updated upstream
+=======
+
+button {
+    background-color: $dropdownMenu1;
+    &::after {
+        background: pink;
+    }
+}
+>>>>>>> Stashed changes
