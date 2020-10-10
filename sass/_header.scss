@@ -1,0 +1,16 @@
+@mixin flexCenter {
+    justify-content: center;
+    color: $textColor;
+    align-items: center;
+
+}
+
+
+header {
+    background: pink;
+    height: 100vh;
+    display: flex;
+    
+
+
+}

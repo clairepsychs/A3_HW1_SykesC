@@ -1,0 +1,10 @@
+@import "./variables";
+@import "./header";
+
+
+button {
+    background: $dropdownMenu1;
+    &::after {
+        background: pink;
+    }
+}

@@ -1,0 +1,16 @@
+header {
+  background: pink;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+button {
+  background: #fc03ba;
+}
+
+button::after {
+  background: pink;
+}
+/*# sourceMappingURL=style.css.map */
